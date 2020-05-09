@@ -1,0 +1,6 @@
+Hatchback
+Coupe
+Sedan
+Combi
+Liftback
+Hatchback
